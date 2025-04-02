@@ -15,7 +15,7 @@
       "RelativeMoniker": "D:0:0:{A8C2A1ED-1A93-49C9-8653-C80A2BAD1895}|calculate-tax.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A8C2A1ED-1A93-49C9-8653-C80A2BAD1895}|calculate-tax.csproj|c:\\private\\code\\c#\\calculate-tax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{A8C2A1ED-1A93-49C9-8653-C80A2BAD1895}|calculate-tax.csproj|C:\\Private\\Code\\C#\\calculate-tax\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{A8C2A1ED-1A93-49C9-8653-C80A2BAD1895}|calculate-tax.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -26,12 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -66,10 +62,14 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Private\\Code\\C#\\calculate-tax\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T09:06:03.826Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -80,8 +80,7 @@
               "ToolTip": "C:\\Private\\Code\\C#\\calculate-tax\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-02T09:04:30.285Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-04-02T09:04:30.285Z"
             }
           ]
         }

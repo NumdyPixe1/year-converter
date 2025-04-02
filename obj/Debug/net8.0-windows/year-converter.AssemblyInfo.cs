@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("calculate-tax")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("year-converter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b4d48992e4e61df6e271d10ab61eed1e65d5f360")]
-[assembly: System.Reflection.AssemblyProductAttribute("calculate-tax")]
-[assembly: System.Reflection.AssemblyTitleAttribute("calculate-tax")]
+[assembly: System.Reflection.AssemblyProductAttribute("year-converter")]
+[assembly: System.Reflection.AssemblyTitleAttribute("year-converter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

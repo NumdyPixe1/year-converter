@@ -1,0 +1,17 @@
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\year-converter.exe
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\year-converter.deps.json
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\year-converter.runtimeconfig.json
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\year-converter.dll
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\year-converter.pdb
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate_tax.Form1.resources
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.csproj.GenerateResource.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.AssemblyInfoInputs.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.AssemblyInfo.cs
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.csproj.CoreCompileInputs.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.sourcelink.json
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.dll
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\refint\year-converter.dll
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.pdb
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\year-converter.genruntimeconfig.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\ref\year-converter.dll

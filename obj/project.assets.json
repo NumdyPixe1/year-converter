@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Private\\Code\\C#\\calculate-tax\\calculate-tax.csproj",
-      "projectName": "calculate-tax",
-      "projectPath": "C:\\Private\\Code\\C#\\calculate-tax\\calculate-tax.csproj",
+      "projectUniqueName": "C:\\Private\\Code\\C#\\calculate-tax\\year-converter.csproj",
+      "projectName": "year-converter",
+      "projectPath": "C:\\Private\\Code\\C#\\calculate-tax\\year-converter.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
       "outputPath": "C:\\Private\\Code\\C#\\calculate-tax\\obj\\",
       "projectStyle": "PackageReference",

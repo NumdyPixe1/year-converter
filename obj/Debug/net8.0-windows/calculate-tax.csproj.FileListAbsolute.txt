@@ -1,0 +1,16 @@
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\calculate-tax.exe
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\calculate-tax.deps.json
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\calculate-tax.runtimeconfig.json
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\calculate-tax.dll
+C:\Private\Code\C#\calculate-tax\bin\Debug\net8.0-windows\calculate-tax.pdb
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate_tax.Form1.resources
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.csproj.GenerateResource.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.AssemblyInfoInputs.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.AssemblyInfo.cs
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.csproj.CoreCompileInputs.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.dll
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\refint\calculate-tax.dll
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.pdb
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\calculate-tax.genruntimeconfig.cache
+C:\Private\Code\C#\calculate-tax\obj\Debug\net8.0-windows\ref\calculate-tax.dll
